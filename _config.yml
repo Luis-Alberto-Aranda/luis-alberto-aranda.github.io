@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Luis Alberto Aranda"
   avatar           : "/assets/images/photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Universidad Rey Juan Carlos"
-  email            :
+  bio              : "Associate Professor at <a href='https://gestion2.urjc.es/pdi/ver/luis.aranda'>URJC</a> (Spain) and member of the <a href='https://caporesearch.es/'>CAPO</a> research group. My research focuses on high-speed, low-power digital design using FPGAs for robotics and space applications."
+  location         : "Office 108, Department Building II, Móstoles (Spain)"
+  email            : "luis (dot) aranda (at) urjc (dot) es"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
