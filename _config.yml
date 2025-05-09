@@ -116,7 +116,7 @@ author:
   name             : "Luis Alberto Aranda"
   avatar           : "/assets/images/photo.jpg"
   bio              : "Associate Professor at <a href='https://gestion2.urjc.es/pdi/ver/luis.aranda' style='text-decoration: underline;'>URJC</a> and member of the <a href='https://caporesearch.es/' style='text-decoration: underline;'>CAPO</a> research group. My research focuses on high-speed, low-power digital design using FPGAs for robotics and space applications."
-  location         : "<a href='https://maps.google.com/?q=Departamental+II+-+Universidad+Rey+Juan+Carlos+(Móstoles)'>URJC, Móstoles (Spain)</a>"
+  location         : "<a href='https://maps.google.com/?q=Departamental+II+-+Universidad+Rey+Juan+Carlos+(Móstoles)' style='display: inline; text-decoration: underline;'>URJC, Móstoles (Spain)</a>"
   email            : "luis.aranda@urjc.es"
   links:
     - label: "Email"
