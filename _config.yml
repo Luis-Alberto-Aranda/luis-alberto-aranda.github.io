@@ -21,7 +21,7 @@ title                    : "Luis Alberto Aranda"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luis Alberto Aranda"
-description              : "An amazing website."
+description              : "Personal site of Luis Alberto Aranda for hosting research and teaching info."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
