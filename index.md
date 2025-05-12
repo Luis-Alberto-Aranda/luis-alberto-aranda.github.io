@@ -1,21 +1,14 @@
 ---
 layout: home
 author_profile: true
-paginate: 1
-title: "Welcome"
 ---
-
-{% comment %}
-Oculta la sección "Recent Posts" aunque paginate esté activado
-{% endcomment %}
-{% assign posts = "" %}
 
 <div id="home"></div>
 
-## About Me
+## Biography
 
 I am an Associate Professor at [URJC](https://gestion2.urjc.es/pdi/ver/luis.aranda) and member of the [CAPO](https://caporesearch.es/) research group.  
-My research focuses on high-speed low-power digital design in FPGAs for robotics and space applications.
+My research focuses on high-speed, low-power digital design using FPGAs for robotics and space applications.
 
 I teach courses in robotics, analog/digital electronics, and FPGA-based systems.  
 Currently working on fault-tolerant neural networks for planetary rovers and space image processing.
