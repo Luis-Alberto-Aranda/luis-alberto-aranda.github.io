@@ -1,8 +1,14 @@
 ---
 layout: home
 author_profile: true
+paginate: 1
 title: "Welcome"
 ---
+
+{% comment %}
+Oculta la sección "Recent Posts" aunque paginate esté activado
+{% endcomment %}
+{% assign posts = "" %}
 
 <div id="home"></div>
 
@@ -21,4 +27,4 @@ Currently working on fault-tolerant neural networks for planetary rovers and spa
 ## Featured Publications
 
 - **Aranda, L.**, et al. "Radiation-Tolerant FPGA Architectures for Image Processing in Space." *IEEE Transactions on Aerospace and Electronic Systems*, 2023. [DOI](https://doi.org/xxx)
-- **Aranda, L.**, et al. "Binary Neural Networks on FPGAs for Planetary Rovers." *ESA Conference on Space Applications*, 2022. [PDF](link)
+- **Aranda, L.**, et al. "Binary Neural Networks on FPGAs for Planetary Rovers." *ESA Conference on Space Applications*, 2022. [PDF](https://example.com)
