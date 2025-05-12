@@ -4,6 +4,8 @@ author_profile: true
 title: "Biography"
 ---
 
+{% include base_path %} {%- assign posts = "" -%}
+
 <div id="home"></div>
 
 I am an Associate Professor at [URJC](https://gestion2.urjc.es/pdi/ver/luis.aranda) and member of the [CAPO](https://caporesearch.es/) research group.  
