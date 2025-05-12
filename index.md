@@ -1,10 +1,8 @@
 ---
-layout: home
+layout: archive
 author_profile: true
 title: "Biography"
 ---
-
-{% include base_path %} {%- assign posts = "" -%}
 
 <div id="home"></div>
 
