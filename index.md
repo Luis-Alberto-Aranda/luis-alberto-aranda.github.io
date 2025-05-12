@@ -1,6 +1,7 @@
 ---
-layout: single
-title: "Luis Aranda"
+layout: home
+author_profile: true
+title: "Welcome"
 ---
 
 <div id="home"></div>
@@ -10,8 +11,8 @@ title: "Luis Aranda"
 I am an Associate Professor at [URJC](https://gestion2.urjc.es/pdi/ver/luis.aranda) and member of the [CAPO](https://caporesearch.es/) research group.  
 My research focuses on high-speed low-power digital design in FPGAs for robotics and space applications.
 
-I received my Ph.D. in Electrical Engineering in 20XX and have taught courses in robotics, analog/digital electronics, and FPGA-based design.  
-Currently, I'm working on fault-tolerant neural networks for space environments and FPGA-based control systems for autonomous drones.
+I teach courses in robotics, analog/digital electronics, and FPGA-based systems.  
+Currently working on fault-tolerant neural networks for planetary rovers and space image processing.
 
 ---
 
@@ -19,6 +20,5 @@ Currently, I'm working on fault-tolerant neural networks for space environments 
 
 ## Featured Publications
 
-- **Aranda, L.**, et al. "Radiation-Tolerant FPGA Architectures for Image Processing in Space." *IEEE Transactions on Aerospace and Electronic Systems*, 2023. [DOI](https://doi.org/xxxx)
+- **Aranda, L.**, et al. "Radiation-Tolerant FPGA Architectures for Image Processing in Space." *IEEE Transactions on Aerospace and Electronic Systems*, 2023. [DOI](https://doi.org/xxx)
 - **Aranda, L.**, et al. "Binary Neural Networks on FPGAs for Planetary Rovers." *ESA Conference on Space Applications*, 2022. [PDF](link)
-- *... Add 1–2 more ...*
