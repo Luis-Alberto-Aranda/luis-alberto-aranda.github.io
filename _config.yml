@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : #
+title                    : "Luis Alberto Aranda"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Luis Alberto Aranda"
+name                     : #
 description              : "Personal academic website of Luis Alberto Aranda, Associate Professor at URJC. Research in FPGA-based systems, robotics and space applications."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
