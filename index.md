@@ -1,7 +1,6 @@
 ---
 layout: archive
 author_profile: true
-title: "Biography"
 ---
 
 <div id="home"></div>
