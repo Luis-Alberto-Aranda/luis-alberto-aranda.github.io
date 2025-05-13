@@ -34,4 +34,52 @@ At URJC, I teach courses in robotics, analog/digital electronics, and FPGA-based
 
 ## People
 
-Hola
+Below are some of the great people I regularly collaborate with:
+
+<div class="people-grid">
+  <div class="person">
+    <img src="/assets/images/ivan.png" alt="Iván Ramírez" class="circle" />
+    <p><strong>Iván Ramírez</strong></p>
+  </div>
+  <div class="person">
+    <img src="/assets/images/diego.png" alt="Diego Hortelano" class="circle" />
+    <p><strong>Diego Hortelano</strong></p>
+  </div>
+  <div class="person">
+    <img src="/assets/images/fran.png" alt="Francisco J. García" class="circle" />
+    <p><strong>Francisco J. García</strong></p>
+  </div>
+  <div class="person">
+    <img src="/assets/images/david.png" alt="David Concha" class="circle" />
+    <p><strong>David Concha</strong></p>
+  </div>
+  <div class="person">
+    <img src="/assets/images/sergio.png" alt="Sergio Hernández" class="circle" />
+    <p><strong>Sergio Hernández</strong></p>
+  </div>
+  <div class="person">
+    <img src="/assets/images/alejandra.png" alt="Alejandra Abalo-García" class="circle" />
+    <p><strong>Alejandra Abalo</strong></p>
+  </div>
+</div>
+
+<style>
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+.person {
+  text-align: center;
+  width: 120px;
+}
+.person img.circle {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+</style>
+
