@@ -80,7 +80,7 @@ Below are some of the great people I regularly collaborate with:
   object-fit: cover;
   border-radius: 50%;
   border: 2px solid #ccc;
-  background-color: white;
+  background-color: #9DA2A6;
 }
 </style>
 
