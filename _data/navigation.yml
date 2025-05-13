@@ -5,3 +5,6 @@ main:
 
   - title: "Featured Publications"
     url: "#publications"
+
+  - title: "People"
+    url: "#people"
