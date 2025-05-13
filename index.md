@@ -5,6 +5,8 @@ author_profile: true
 
 <div id="home"></div>
 
+## Biography
+
 I am an Associate Professor at [URJC](https://gestion2.urjc.es/pdi/ver/luis.aranda) and member of the [CAPO](https://caporesearch.es/) research group. My current research focuses on high-speed low-power digital design in [FPGAs](https://en.wikipedia.org/wiki/Field-programmable_gate_array) for robotics and space applications.
 
 I received my B.Sc. in Industrial Engineering and my M.Sc. in Robotics from [UC3M](https://www.uc3m.es/Inicio) in 2012 and 2015, respectively. I obtained my Ph.D. (with Honors) in Industrial Engineering from [Universidad Nebrija](https://www.nebrija.com/) in 2018.
