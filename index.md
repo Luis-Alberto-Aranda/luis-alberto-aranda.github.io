@@ -39,27 +39,27 @@ Below are some of the great people I regularly collaborate with:
 <div class="people-grid">
   <div class="person">
     <img src="/assets/images/ivan.png" alt="Iván Ramírez" class="circle" />
-    <p><strong><a href="https://scholar.google.es/citations?user=EhFE6-kAAAAJ&hl=es&oi=ao" target="_blank">Iván Ramírez</strong></p>
+    <p><a href="https://scholar.google.es/citations?user=EhFE6-kAAAAJ&hl=es&oi=ao" target="_blank"><strong>Iván Ramírez</strong></a></p>
   </div>
   <div class="person">
     <img src="/assets/images/diego.png" alt="Diego Hortelano" class="circle" />
-    <p><strong><a href="https://scholar.google.es/citations?user=xSPVxOcAAAAJ&hl=es&oi=ao" target="_blank">Diego Hortelano</strong></p>
+    <p><a href="https://scholar.google.es/citations?user=xSPVxOcAAAAJ&hl=es&oi=ao" target="_blank"><strong>Diego Hortelano</strong></a></p>
   </div>
   <div class="person">
     <img src="/assets/images/fran.png" alt="Francisco J. García" class="circle" />
-    <p><strong><a href="https://orcid.org/0000-0001-8062-6692" target="_blank">Francisco J. García</strong></p>
+    <p><a href="https://orcid.org/0000-0001-8062-6692" target="_blank"><strong>Francisco J. García</strong></a></p>
   </div>
   <div class="person">
     <img src="/assets/images/david.png" alt="David Concha" class="circle" />
-    <p><strong><a href="https://orcid.org/0000-0003-4996-3281" target="_blank">David Concha</strong></p>
+    <p><a href="https://orcid.org/0000-0003-4996-3281" target="_blank"><strong>David Concha</strong></a></p>
   </div>
   <div class="person">
     <img src="/assets/images/sergio.png" alt="Sergio Hernández" class="circle" />
-    <p><strong><a href="https://scholar.google.es/citations?user=6HHnu0YAAAAJ&hl=es&oi=ao" target="_blank">Sergio Hernández</strong></p>
+    <p><a href="https://scholar.google.es/citations?user=6HHnu0YAAAAJ&hl=es&oi=ao" target="_blank"><strong>Sergio Hernández</strong></a></p>
   </div>
   <div class="person">
     <img src="/assets/images/alejandra.png" alt="Alejandra Abalo-García" class="circle" />
-    <p><strong><a href="https://scholar.google.es/citations?user=EOlBjTwAAAAJ&hl=es&oi=ao" target="_blank">Alejandra Abalo</strong></p>
+    <p><a href="https://scholar.google.es/citations?user=EOlBjTwAAAAJ&hl=es&oi=ao" target="_blank"><strong>Alejandra Abalo</strong></a></p>
   </div>
 </div>
 
